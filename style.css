@@ -64,11 +64,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: -200px;
+  
 }
 .intro-content {
   display: flex;
-  max-width: 1100px;
+  max-width: 1300px;
   gap: 2rem;
 }
 .intro-text {
@@ -130,8 +130,7 @@ body {
   justify-items: center; /* Center content horizontally */
   max-width: 1500px; /* Limit the width to avoid stretching */
   margin: 0 auto; /* Center the container */
-  margin-left: 200px;
-  margin-right: 200px;
+ 
 }
 
 .skill {
@@ -186,8 +185,7 @@ body {
   justify-items: center; /* Center content horizontally */
   max-width: 1500px; /* Limit the width to avoid stretching */
   margin: 0 auto; /* Center the container */
-  margin-left: 200px;
-  margin-right: 200px;
+ 
 }
 
 
